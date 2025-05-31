@@ -1,57 +1,63 @@
-<!-- Greeting -->
-<h1 align="center">Hi 👋, I'm Ayush Bajagain</h1>
-<h3 align="center">A passionate Full-Stack Java Developer</h3>
+<!-- h1 for SEO keyword -->
+# Ayush Bajagain | Full Stack Java Developer
+
+Welcome to my GitHub profile! I’m **Ayush Bajagain**, a passionate full-stack Java developer who loves building backend systems with **Spring Boot**, **MySQL**, and modern UIs with **React**. I solve real-world problems using clean and efficient code.
 
 ---
 
-### 💼 About Me
+## 👨‍💻 Who is Ayush Bajagain?
 
-- 🔭 I’m currently working on a **Complete E-commerce Backend System** using Spring Boot  
-- 🌱 Learning more about **Spring Security, Advanced JPA, and React Integration**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, React**
-- 📫 Reach me at: **ayushbajagain0007@gmail.com**
-- 🌐 Visit my website: [www.ayushbajagain.com.np](https://www.ayushbajagain.com.np)
-- 🧠 I enjoy solving real-world problems with clean, scalable code
+I'm a Java developer with hands-on experience building scalable web applications using:
 
----
+- **Java**
+- **Spring Boot**
+- **MySQL**
+- **React**
+- **HTML5**, **CSS3**, and **JavaScript**
 
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</p>
+I specialize in backend systems, REST APIs, authentication (JWT), database design, and frontend integration with React.
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Current Work
+
+I’m currently working on:
+- ✅ A full **E-commerce Backend System** with Spring Boot and secure JWT-based authentication
+- ✅ An **Employee Attendance System** with check-in/check-out features and admin dashboards
+- ✅ Learning advanced topics like **Spring Security**, **Entity Graphs**, and **Custom JPA Repositories**
+
+---
+
+## 🚀 My Technical Stack
+
+**Languages & Frameworks**:
+- Java, Spring Boot, MySQL, React, HTML, CSS, JavaScript
+
+**Tools & Platforms**:
+- Postman, GitHub, VS Code, IntelliJ, MySQL Workbench, MongoDB, Figma
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushbajagain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbajagain&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushbajagain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbajagain&layout=compact&langs_count=6&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  💡 <b>Most used language:</b> <code>Java</code> (💚 with <b>Spring Boot</b> for backend development)
+  💡 <strong>Most used language:</strong> <code>Java</code> with <strong>Spring Boot</strong> for powerful backend development.
 </p>
 
 ---
 
-### 🛠️ Projects
+## 🔗 Connect with Ayush Bajagain
 
-- ✅ Employee Attendance System (Spring Boot + JWT + MySQL)
-- ✅ E-commerce Platform (React + Spring Boot + MongoDB/MySQL)
-- ✅ Movie Link Sharing System (PHP + MySQL)
-- ✅ Car Rental & School Fee Management System (Java/PHP)
+You can reach or follow me on these platforms:
 
----
-
-### 📫 Connect with Me
+- 🌐 Website: [www.ayushbajagain.com.np](https://www.ayushbajagain.com.np)
+- 📧 Email: [ayushbajagain0007@gmail.com](mailto:ayushbajagain0007@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ayush-bajagain-4a1169319](https://www.linkedin.com/in/ayush-bajagain-4a1169319/)
 
 <p>
   <a href="https://www.linkedin.com/in/ayush-bajagain-4a1169319/" target="_blank">
@@ -67,12 +73,24 @@
 
 ---
 
-### 🔥 Fun Fact
-> I write Java like poetry and design Spring Boot APIs like blueprints 🚀
+## 🛠️ Projects by Ayush Bajagain
+
+- 👨‍💻 Employee Attendance System – Spring Boot + JWT + MySQL
+- 🛒 E-commerce Web App – React + Spring Boot + MongoDB
+- 🎬 Movie Link Sharing – PHP + MySQL
+- 🚗 Car Rental System – Java + MySQL
+- 🏫 School Fee Management – Java + MySQL
 
 ---
 
-<!-- Optional Profile Views -->
+## 🧠 Fun Fact
+
+> I write Java like poetry and build Spring Boot APIs like blueprints 🚀
+
+---
+
+## 📊 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushbajagain&color=brightgreen" alt="Profile Views"/>
 </p>
