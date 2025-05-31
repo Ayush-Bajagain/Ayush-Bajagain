@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushbajagain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbajagain&layout=compact&langs_count=6&theme=radical&hide_border=true" height="180" />
-</p>
 
 <p align="center">
   🏆 <strong>Primary Language:</strong> <code>Java</code> — using <strong>Spring Boot</strong> for backend APIs
